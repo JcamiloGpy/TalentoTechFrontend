@@ -1,0 +1,38 @@
+/* Body */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Headers */
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Buttons */
+.btn-primary,
+.btn-success {
+  font-size: 1.2rem;
+}
+
+.btn-outline-primary {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Table */
+.table {
+  margin-top: 20px;
+}
+
+.table-bordered th,
+.table-bordered td {
+  text-align: center;
+}
+
+/* Footer */
+footer {
+  background-color: #0d6efd;
+  color: white;
+}
